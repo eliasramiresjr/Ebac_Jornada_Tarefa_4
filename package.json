@@ -1,0 +1,23 @@
+{
+  "name": "ebac_jornada_tarefa_4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eliasramiresjr/Ebac_Jornada_Tarefa_4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eliasramiresjr/Ebac_Jornada_Tarefa_4/issues"
+  },
+  "homepage": "https://github.com/eliasramiresjr/Ebac_Jornada_Tarefa_4#readme",
+  "description": "",
+  "dependencies": {
+    "cypress": "^14.3.2"
+  }
+}
